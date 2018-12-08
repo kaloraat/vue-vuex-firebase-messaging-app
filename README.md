@@ -1,3 +1,13 @@
-# vue-vuex-firebase-messaging-app Slack Clone
-Vue JS Vuex Firebase Messaging App (Slack Clone)
-<a href="https://www.udemy.com/vue-vuex-firebase/?couponCode=VVFBASE">This source code belongs to a Video Course, Check this out!</a>
+## Vue Vuex Firebase Messaging App - Slack clone
+
+This is an advance messaging app build with Vue Vuex and Firebase. Users can add channels, use private messaging and upload images.
+
+## App Screenshots
+
+<img src="/img/app.png" alt="Vue Vuex Firebase Messaging App - Slack clone" />
+<img src="/img/app2.png" alt="Vue Vuex Firebase Messaging App - Slack clone" />
+<img src="/img/app3.png" alt="Vue Vuex Firebase Messaging App - Slack clone" />
+<img src="/img/app4.png" alt="Vue Vuex Firebase Messaging App - Slack clone" />
+<img src="/img/app5.png" alt="Vue Vuex Firebase Messaging App - Slack clone" />
+<img src="/img/app6.png" alt="Vue Vuex Firebase Messaging App - Slack clone" />
+<img src="/img/app7.png" alt="Vue Vuex Firebase Messaging App - Slack clone" />
